@@ -7,5 +7,5 @@ ADMIN_PASSWORD = "techtao"
 RENDER_ACCOUNTS = "[{\"id\": \"account1\", \"name\": \"2115488239@qq.com\", \"apiKey\": \"rnd_n7HicSe1IN9JnpNnfjYl0w270WQx\"}]"
 SESSION_SECRET = "sk-techtao"
 kv_namespaces = [
-  { binding = "RENDER_KV", id = "你的KV_ID" }
+  { binding = "RENDER_KV", id = "dbcd0f7038da462b974b079cbcfbb43b" }
 ]
