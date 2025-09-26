@@ -1,0 +1,11 @@
+name = "render-service-manager1"
+compatibility_date = "2025-08-01"
+workers_dev = true
+[vars]
+ADMIN_USERNAME = "techtao"
+ADMIN_PASSWORD = "techtao"
+RENDER_ACCOUNTS = "[{\"id\": \"account1\", \"name\": \"2115488239@qq.com\", \"apiKey\": \"rnd_n7HicSe1IN9JnpNnfjYl0w270WQx\"}]"
+SESSION_SECRET = "sk-techtao"
+kv_namespaces = [
+  { binding = "RENDER_KV", id = "你的KV_ID" }
+]
